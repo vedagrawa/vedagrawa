@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! My name is Ved Agrawal, and I am a second-year student enrolled at Northeastern University. I am majoring in Data Science and Finance. Feel free to reach out to my email: agrawal.ve@northeastern.edu!
 
 <!--
 **vedagrawa/vedagrawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
